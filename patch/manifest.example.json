@@ -1,0 +1,11 @@
+{
+  "version": "2026.10.15.1",
+  "files": [
+    {
+      "path": "data/exemplo.txt",
+      "url": "https://downloads.example.com/patch/data/exemplo.txt",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 1
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "missing-file",
+    "title": "Arquivo ausente ou corrompido",
+    "symptoms": "O cliente não inicia ou acusa um arquivo ausente.",
+    "solution": "Execute a verificação e reparação no patcher. Se o problema continuar, use os links de suporte abaixo.",
+    "keywords": ["arquivo", "ausente", "corrompido", "grf"],
+    "links": [{"label": "Suporte MODNAROK", "url": "https://modnarok.com.br/"}]
+  }
+]
