@@ -1,4 +1,11 @@
 {
-  "version": "beta-0",
-  "files": []
+  "version": "beta-1",
+  "files": [
+    {
+      "path": "data/sclientinfo.xml",
+      "url": "https://raw.githubusercontent.com/linknaka/ModnarokPatcher/main/patch/files/sclientinfo.xml",
+      "sha256": "53ecfc51cc88048384f9edea8d3fa48206070ba9c44af8224873af3187c155cf",
+      "size": 689
+    }
+  ]
 }
