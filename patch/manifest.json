@@ -8,4 +8,15 @@
       "size": 689
     }
   ]
-}
+},
+{
+  "version": "beta-2",
+  "files": [
+    {
+      "path": "system/iteminfo_ptbr.lub",
+      "url": "https://raw.githubusercontent.com/linknaka/ModnarokPatcher/refs/heads/main/patch/iteminfo_ptbr.lub",
+      "sha256": "dfcb03492587508f33cdf31aabdd8940deedba04d0cdda219c7a2b9a149dc2ed",
+      "size": 8895107
+    }
+  ]
+},
